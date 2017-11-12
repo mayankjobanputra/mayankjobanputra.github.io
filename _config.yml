@@ -1,5 +1,5 @@
 
-title: All about me
+title: Resume
 url: 'http://mayankjobanputra.github.io'
 baseurl: '/mayankjobanputra.github.io' #change it according to your repository name
 
@@ -23,5 +23,6 @@ phone: +919408181747
 website: azadmonk.wordpress.com #do not add http://
 linkedin: mayankjobanputra
 github: mayankjobanputra
+twitter: MacJobanputra
 
 #Update all the sections by editing the files inside _includes folder.
