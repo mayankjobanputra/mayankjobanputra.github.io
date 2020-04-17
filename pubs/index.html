@@ -11,8 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="/libs/katex/katex.min.css">
      
-   <link rel="stylesheet" href="/libs/highlight/github.min.css">
-   
+  
   <link rel="stylesheet" href="/css/franklin.css">
   <link rel="stylesheet" href="/css/minimal-mistakes.css">
   <link rel="stylesheet" href="/css/adjust.css">
@@ -32,7 +31,7 @@
   <![endif]-->
   <!-- start custom head snippets -->
   <link rel="icon" href="/assets/favicon.png">
-   <title>More goodies</title>  
+   <title>Publications</title>  
   <!-- insert favicons. use https://realfavicongenerator.net/ -->
   <!-- end custom head snippets -->
 </head>
@@ -41,12 +40,12 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="/">About</a>
+        <a class="site-title" href="/">Home</a>
         <ul class="visible-links">
-          <li class="masthead__menu-item"><a href="/Blogs/" >Blogs</a></li>
+          <li class="masthead__menu-item"><a href="/blogs/" >Blogs</a></li>
           <li class="masthead__menu-item"><a href="/pubs/" >Publications</a></li>
-          <li class="masthead__menu-item"><a href="/projects/" >Projects</a></li>
-          <li class="masthead__menu-item"><a href="/menu3/">Contact</a></li>
+          <!-- <li class="masthead__menu-item"><a href="/projects/" >Projects</a></li> -->
+          <li class="masthead__menu-item"><a href="/contact/">Contact</a></li>
         </ul>
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -67,7 +66,7 @@
           </div>
           <div class="author__content">
             <h3 class="author__name" itemprop="name">Mayank Jobanputra</h3>
-            <p class="author__bio" itemprop="description">Probably not a commoner.</p>
+            <p class="author__bio" itemprop="description">Questions? I love those.</p>
           </div>
           <div class="author__urls-wrapper">
             <button class="btn btn--inverse">Follow</button>
@@ -84,46 +83,24 @@
 <!-- Content appended here -->
 
 <div class="franklin-content">
-<h1 id="more_goodies"><a href="#more_goodies">More goodies</a></h1>
-<h2 id="more_markdown_support"><a href="#more_markdown_support">More markdown support</a></h2>
-<p>The Julia Markdown parser in Julia&#39;s stdlib is not exactly complete and Franklin strives to bring useful extensions that are either defined in standard specs such as Common Mark or that just seem like useful extensions.</p>
+<h1 id="accepted_papers"><a href="#accepted_papers">Accepted Papers</a></h1>
 <ul>
-<li><p>indirect references for instance <a href="http://existentialcomics.com/">like so</a></p>
+<li><p>Jobanputra, Mayank. <em>&quot;Unsupervised Question Answering for Fact-Checking.&quot;</em> Proceedings of the Second Workshop on Fact Extraction and VERification &#40;FEVER&#41;, pp. 52-56, 2019.</p>
+</li>
+<li><p>Jobanputra, Mayank, Axat Chaudhary, Saumil Shah, and Ratnik Gandhi. <em>&quot;Real-time face recognition in hd videos: algorithms and framework.&quot;</em> In 2018 Annual IEEE international systems conference &#40;SysCon&#41;, pp. 1-8. IEEE, 2018.</p>
+</li>
+<li><p>Chaudhary, Axat, Mayank Jobanputra, Saumil Shah, Ratnik Gandhi, Sanjay Chaudhary, and Raxit Goswami. <em>&quot;Automated human capital management system.&quot;</em> In 2018 Annual IEEE International Systems Conference &#40;SysCon&#41;, pp. 1-8. IEEE, 2018.</p>
 </li>
 </ul>
- or also for images</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Krul.svg" alt="some image"></p>
-<p>some people find that useful as it allows referring multiple times to the same link for instance.</p>
-
+<h1 id="submitted_papers"><a href="#submitted_papers">Submitted Papers</a></h1>
 <ul>
-<li><p>un-qualified code blocks and indented code blocks are allowed and are julia by default</p>
-</li>
-</ul>
-<pre><code class="language-julia">a = 1
-b = a+1</code></pre> or</p>
-<pre><code class="language-julia">a = 1
-b = a+1</code></pre>
-<p>you can specify the default language with <code>@def lang &#61; &quot;julia&quot;</code>. If you actually want a &quot;plain&quot; code block, qualify it as <code>plaintext</code> like</p>
-<pre><code class="language-plaintext">so this is plain-text stuff.</code></pre>
-<h2 id="a_bit_more_highlighting"><a href="#a_bit_more_highlighting">A bit more highlighting</a></h2>
-<p>Extension of highlighting for <code>pkg</code> an <code>shell</code> mode in Julia:</p>
-<pre><code class="language-julia-repl">(v1.4) pkg> add Franklin
-shell> blah
-julia> 1+1
-(Sandbox) pkg> resolve</code></pre>
-<p>you can tune the colouring in the CSS etc via the following classes:</p>
-<ul>
-<li><p><code>.hljs-meta</code> &#40;for <code>julia&gt;</code>&#41;</p>
-</li>
-<li><p><code>.hljs-metas</code> &#40;for <code>shell&gt;</code>&#41;</p>
-</li>
-<li><p><code>.hljs-metap</code> &#40;for <code>...pkg&gt;</code>&#41;</p>
+<li><p>Hridoy Dutta, Mayank Jobanputra, Himani Negi and Tanmoy Chakraborty. <em>“CollATe: Spotting Collusive Activities on YouTube”</em> Submitted to ACM Transactions on Intelligent Systems and Technology &#40;TIST&#41; 2020.</p>
 </li>
 </ul>
 
 <div class="page-foot">
   <div class="copyright">
-    &copy; Mayank Jobanputra. Last modified: April 14, 2020. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
+    &copy; Mayank Jobanputra. Last modified: April 17, 2020. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
   </div>
 </div>
 
@@ -157,10 +134,6 @@ julia> 1+1
 <script>renderMathInElement(document.body)</script>
 
     
-    
-        <script src="/libs/highlight/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();hljs.configure({tabReplace: '    '});</script>
-
     
   </body>
 </html>
