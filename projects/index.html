@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="/css/franklin.css">
   <link rel="stylesheet" href="/css/minimal-mistakes.css">
   <link rel="stylesheet" href="/css/adjust.css">
+  <link rel="stylesheet" href="/css/academicons.css"
   <!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
@@ -44,7 +45,7 @@
         <a class="site-title" href="/home/">Home</a>
         <ul class="visible-links">
           <li class="masthead__menu-item"><a href="/blogs/" >Blogs</a></li>
-          <li class="masthead__menu-item"><a href="/pubs/" >Publications</a></li>
+          <!-- <li class="masthead__menu-item"><a href="/pubs/" >Publications</a></li> -->
           <li class="masthead__menu-item"><a href="/projects/" >Projects</a></li>
           <li class="masthead__menu-item"><a href="/contact/">Contact</a></li>
         </ul>
@@ -67,13 +68,14 @@
           </div>
           <div class="author__content">
             <h3 class="author__name" itemprop="name">Mayank Jobanputra</h3>
-            <p class="author__bio" itemprop="description">Questions? I love those.</p>
+            <p class="author__bio" itemprop="description">Questions? Please send'em over,<br> I love those.</p>
           </div>
           <div class="author__urls-wrapper">
             <button class="btn btn--inverse">Follow</button>
             <ul class="author__urls social-icons">
               <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
                 <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">India</span></li>
+              <li><a href="https://scholar.google.com/citations?user=plxTJWcAAAAJ&hl=en" rel="nofollow noopener noreferrer"><i class="ai ai-google-scholar-square ai-fw" ></i> Google Scholar</a></li>
               <li><a href="https://twitter.com/MacJobanputra" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
               <li><a href="https://github.com/mayankjobanputra" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
             </ul>
@@ -84,46 +86,10 @@
 <!-- Content appended here -->
 
 <div class="franklin-content">
-<h1 id="projects"><a href="#projects">Projects</a></h1>
-<h2 id="more_markdown_support"><a href="#more_markdown_support">More markdown support</a></h2>
-<p>The Julia Markdown parser in Julia&#39;s stdlib is not exactly complete and Franklin strives to bring useful extensions that are either defined in standard specs such as Common Mark or that just seem like useful extensions.</p>
-<ul>
-<li><p>indirect references for instance <a href="http://existentialcomics.com/">like so</a></p>
-</li>
-</ul>
- or also for images</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Krul.svg" alt="some image"></p>
-<p>some people find that useful as it allows referring multiple times to the same link for instance.</p>
-
-<ul>
-<li><p>un-qualified code blocks and indented code blocks are allowed and are julia by default</p>
-</li>
-</ul>
-<pre><code class="language-julia">a = 1
-b = a+1</code></pre> or</p>
-<pre><code class="language-julia">a = 1
-b = a+1</code></pre>
-<p>you can specify the default language with <code>@def lang &#61; &quot;julia&quot;</code>. If you actually want a &quot;plain&quot; code block, qualify it as <code>plaintext</code> like</p>
-<pre><code class="language-plaintext">so this is plain-text stuff.</code></pre>
-<h2 id="a_bit_more_highlighting"><a href="#a_bit_more_highlighting">A bit more highlighting</a></h2>
-<p>Extension of highlighting for <code>pkg</code> an <code>shell</code> mode in Julia:</p>
-<pre><code class="language-julia-repl">(v1.4) pkg> add Franklin
-shell> blah
-julia> 1+1
-(Sandbox) pkg> resolve</code></pre>
-<p>you can tune the colouring in the CSS etc via the following classes:</p>
-<ul>
-<li><p><code>.hljs-meta</code> &#40;for <code>julia&gt;</code>&#41;</p>
-</li>
-<li><p><code>.hljs-metas</code> &#40;for <code>shell&gt;</code>&#41;</p>
-</li>
-<li><p><code>.hljs-metap</code> &#40;for <code>...pkg&gt;</code>&#41;</p>
-</li>
-</ul>
-
+<h2 id="coming_soon"><a href="#coming_soon">Coming Soon</a></h2>
 <div class="page-foot">
   <div class="copyright">
-    &copy; Mayank Jobanputra. Last modified: May 04, 2020. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
+    &copy; Mayank Jobanputra. Last modified: June 01, 2020. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
   </div>
 </div>
 

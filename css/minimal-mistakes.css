@@ -493,8 +493,8 @@ a:focus,button:focus {
 
 html {
   box-sizing: border-box;
-  background-color: #fff;
-  font-size: 16px;
+  background-color: rgb(54, 54, 54);
+  font-size: 12px;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%
 }
@@ -522,12 +522,12 @@ body {
 }
 
 ::-moz-selection {
-  color: #fff;
+  color: rgb(56, 56, 56);
   background: #000
 }
 
 ::selection {
-  color: #fff;
+  color: rgb(189, 178, 178);
   background: #000
 }
 
@@ -628,7 +628,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: #494e52;
+  color: #c3c6c9;
   font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
   line-height: 1.5
 }
@@ -1974,13 +1974,13 @@ tr,td,th {
   -ms-flex-align: center;
   align-items: center;
   min-height: 2em;
-  background: #fff
+  background: rgb(54, 54, 54)
 }
 
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
-  color: #6f777d;
+  color: #ffffff;
   text-decoration: none
 }
 
@@ -2362,12 +2362,12 @@ tr,td,th {
   bottom: 0;
   height: auto;
   margin-top: 3em;
-  color: #898c8f;
+  color: #3a3a3a;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: #f2f3f3
+  background-color: #b8b8b8
 }
 
 .page__footer::after {
@@ -4498,9 +4498,9 @@ a.reversefootnote:hover {
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
-  border: 1px solid #f2f3f3;
+  border: 1px solid #a9d8d8;
   border-radius: 4px;
-  background: #fff;
+  background: rgb(161, 155, 155);
   z-index: -1;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   cursor: default
@@ -4621,14 +4621,14 @@ a.reversefootnote:hover {
     margin: 0;
     padding: 0;
     min-height: auto !important;
-    font-size: 16px
+    font-size: 12px
   }
 
   body {
     margin: 0 auto;
-    background: #fff !important;
+    background: rgb(153, 151, 151) !important;
     color: #000 !important;
-    font-size: 1rem;
+    font-size: 0.75rem;
     line-height: 1.5;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -4643,27 +4643,27 @@ a.reversefootnote:hover {
   }
 
   h1 {
-    font-size: 2.5rem
-  }
-
-  h2 {
     font-size: 2rem
   }
 
-  h3 {
+  h2 {
     font-size: 1.75rem
   }
 
-  h4 {
+  h3 {
     font-size: 1.5rem
   }
 
-  h5 {
+  h4 {
     font-size: 1.25rem
   }
 
-  h6 {
+  h5 {
     font-size: 1rem
+  }
+
+  h6 {
+    font-size: 0.75rem
   }
 
   a,a:visited {
