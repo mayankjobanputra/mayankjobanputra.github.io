@@ -38,12 +38,12 @@ P.S. If you find me with my violin in my hand, you might want to look for some e
 
 ## News
 
-* **Nov 2025:** B-cos LM accepted at **TMLR**!
+* **Nov 2025:** Our paper on B-cos LM accepted at **TMLR**!
 
-* **Oct 2025:** Our paper on showcasing recency bias of LLMs while reasoning accepted at **IJCNLP-AACL 2025**!
+* **Oct 2025:** Our paper showcasing recency bias of LLMs while reasoning accepted at **IJCNLP-AACL 2025**!
 
-* **Sep 2025:** Our work on pre-training and architectural abilities accepted at **NeurIPS 2025**!
+* **Sep 2025:** Our work explaining effects pre-training and scale on architectural abilities of Transformers accepted at **NeurIPS 2025**!
 
-* **Aug 2025:** Our paper on factuality and attribution in multi-hop reasoning accepted at **EMNLP 2025**!
+* **Aug 2025:** Our paper on improving factuality and attribution in multi-hop medical reasoning accepted at **EMNLP 2025**!
 
 * **Sep 2023:** Joined Saarland University as a PhD student in Prof. Vera Demberg's group.
