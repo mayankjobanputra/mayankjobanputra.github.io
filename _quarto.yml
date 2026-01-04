@@ -14,13 +14,15 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Blogs"
+        href: resources/blogs/blogs_home.qmd
 
 format:
   html:
     theme:
       light: cosmo
       dark: darkly
-    css: styles.css
+#    css: styles.css
     toc: true
 
 execute:

@@ -8,72 +8,72 @@ For a full list of our work, please visit our [Google Scholar](https://scholar.g
 
 ### 2025
 
-**Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities**
+*Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities*
 
-**Mayank Jobanputra**\*, **Yana Veitsman**\*, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, and Michael Hahn.
+**Mayank Jobanputra**\*, Yana Veitsman\*, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, and Michael Hahn.  
 *NeurIPS 2025*
 
 ---
 
-**B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability**
+*B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability*
 
-Yifan Wang, Sukrut Rao, Ji-Ung Lee, **Mayank Jobanputra**, and Vera Demberg.
+Yifan Wang, Sukrut Rao, Ji-Ung Lee, **Mayank Jobanputra**, and Vera Demberg.  
 *TMLR 2025*
 
 ---
 
-**ProofTeller: What LLMs struggle with while reasoning with Formal Proofs**
+*ProofTeller: What LLMs struggle with while reasoning with Formal Proofs*
 
-**Mayank Jobanputra**, Alisa Kovtunova, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, and Vera Demberg.
+**Mayank Jobanputra**, Alisa Kovtunova, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, and Vera Demberg.  
 *IJCNLP-AACL 2025*
 
 ---
 
-**Tree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning**
+*Tree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning*
 
-Justin Xu, Yiming Li, Zizheng Zhang, Augustine Yui Hei Luk, **Mayank Jobanputra**, Samarth Oza, and Vera Demberg.
+Justin Xu, Yiming Li, Zizheng Zhang, Augustine Yui Hei Luk, **Mayank Jobanputra**, Samarth Oza, and Vera Demberg.  
 *EMNLP 2025*
 
 ---
 
-**Can LLMs subtract numbers?**
+*Can LLMs subtract numbers?*
 
-**Mayank Jobanputra**, Nils Philipp Walter, Maitrey Mehta, Blerta Veseli, Evan Parker Kelly Chapple, Sneha Chetani, Yifan Wang, Ellie Pavlick, Antonio Vergari, Vera Demberg.
+**Mayank Jobanputra**, Nils Philipp Walter, Maitrey Mehta, Blerta Veseli, Evan Parker Kelly Chapple, Sneha Chetani, Yifan Wang, Ellie Pavlick, Antonio Vergari, Vera Demberg.  
 *MathNLP Workshop at EMNLP 2025*
 
 
 ### 2024
 
-**Retrieval-Augmented Modular Prompt Tuning for Low-Resource Data-to-Text Generation**
+*Retrieval-Augmented Modular Prompt Tuning for Low-Resource Data-to-Text Generation*
 
-Ruitao Feng, Xudong Hong, **Mayank Jobanputra**, Mattes Warning, and Vera Demberg.
+Ruitao Feng, Xudong Hong, **Mayank Jobanputra**, Mattes Warning, and Vera Demberg.  
 *LREC-COLING 2024*
 
 ---
 
-**A Universal Dependencies Treebank for Gujarati**
+*A Universal Dependencies Treebank for Gujarati*
 
-**Mayank Jobanputra**\*, Maitrey Mehta\*, and Çağrı Çöltekin.
+**Mayank Jobanputra**\*, Maitrey Mehta\*, and Çağrı Çöltekin.  
 *MWE-UD Workshop at LREC-COLING 2024*
 
 
 ### 2021
 
-**Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages**
+*Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages*
 
-Gowtham Ramesh, Sumanth Doddapaneni, Aravinth Bheemaraj, **Mayank Jobanputra**, Raghavan AK, Ajitesh Sharma, Sujit Sahoo, Harshita Diddee, Divyanshu Kakwani, Navneet Kumar, Aswin Pradeep, Kumar Deepak, Vivek Raghavan, Anoop Kunchukuttan, Pratyush Kumar, and Mitesh Khapra.
+Gowtham Ramesh, Sumanth Doddapaneni, Aravinth Bheemaraj, **Mayank Jobanputra**, Raghavan AK, Ajitesh Sharma, Sujit Sahoo, Harshita Diddee, Divyanshu Kakwani, Navneet Kumar, Aswin Pradeep, Kumar Deepak, Vivek Raghavan, Anoop Kunchukuttan, Pratyush Kumar, and Mitesh Khapra.  
 *TACL 2021*
 
 ---
 
-**Detecting and Analyzing Collusive Entities on YouTube**
+*Detecting and Analyzing Collusive Entities on YouTube*
 
-Hridoy Dutta\*, **Mayank Jobanputra**\*, Himani Negi, and Tanmoy Chakraborty.
+Hridoy Dutta\*, **Mayank Jobanputra**\*, Himani Negi, and Tanmoy Chakraborty.  
 *ACM Transactions on Intelligent Systems and Technology (TIST) 2021*
 
 ### 2019
 
-**Unsupervised Question Answering for Fact-Checking**
+*Unsupervised Question Answering for Fact-Checking*
 
-**Mayank Jobanputra**.
-*Proceedings of the Second Workshop on Fact Extraction and VERification (FEVER) 2019*
+**Mayank Jobanputra**  
+*FEVER Workshop - EMNLP 2019*
