@@ -1,6 +1,6 @@
 ---
 title: "Mayank Jobanputra"
-image: profile.jpg
+image: resources/profile.jpg
 about:
   template: trestles
   links:
