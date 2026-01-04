@@ -1,0 +1,12 @@
+/* Add any custom CSS here */
+
+/* Example: Make the navbar a specific color */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+/* Adjust the profile image size if needed */
+.about-entity img {
+    border-radius: 50%;
+    margin-bottom: 1em;
+}

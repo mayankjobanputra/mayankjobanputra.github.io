@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mayank Jobanputra",
+    "section": "",
+    "text": "I am a Doctoral Researcher at Saarland University and a member of ELLIS, working with Prof. Vera Demberg.\nMy research focuses on evaluating the reliability of Large Language Models (LLMs). I am specifically interested in understanding how we can make these models more dependable and developing concrete solutions to improve their reliability in practice. This work sits at the intersection of Natural Language Generation (NLG), Model Interpretability, and Evaluation.\nPreviously, I completed my Masters in Computational Linguistics at the University of Tübingen, where I worked with Prof. Detmar Meurers and Dr. Çağrı Çöltekin. I also worked as a Research Assistant at IIT Madras with Prof. Mitesh Khapra.\nOutside of the lab, I also help start-ups integrate GenAI into their products. In my free time, I enjoy hiking and reading poetry. I have been learning to play Violin for about a year now.\nP.S. If you find me with my violin in my hand, you might want to look for your headphones ;P"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Mayank Jobanputra",
+    "section": "",
+    "text": "I am a Doctoral Researcher at Saarland University and a member of ELLIS, working with Prof. Vera Demberg.\nMy research focuses on evaluating the reliability of Large Language Models (LLMs). I am specifically interested in understanding how we can make these models more dependable and developing concrete solutions to improve their reliability in practice. This work sits at the intersection of Natural Language Generation (NLG), Model Interpretability, and Evaluation.\nPreviously, I completed my Masters in Computational Linguistics at the University of Tübingen, where I worked with Prof. Detmar Meurers and Dr. Çağrı Çöltekin. I also worked as a Research Assistant at IIT Madras with Prof. Mitesh Khapra.\nOutside of the lab, I also help start-ups integrate GenAI into their products. In my free time, I enjoy hiking and reading poetry. I have been learning to play Violin for about a year now.\nP.S. If you find me with my violin in my hand, you might want to look for your headphones ;P"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mayank Jobanputra",
+    "section": "News",
+    "text": "News\n\nNov 2025: B-cos LM accepted at TMLR!\nOct 2025: Our paper on showcasing recency bias of LLMs while reasoning accepted at IJCNLP-AACL 2025!\nSep 2025: Our work on pre-training and architectural abilities accepted at NeurIPS 2025!\nAug 2025: Our paper on factuality and attribution in multi-hop reasoning accepted at EMNLP 2025!\nSep 2023: Joined Saarland University as a PhD student in Prof. Vera Demberg’s group."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "For a full list of our work, please visit our Google Scholar.\n* Equal contribution.\n\n2025\nBorn a Transformer – Always a Transformer? On the Effect of Pretraining on Architectural Abilities\nMayank Jobanputra*, Yana Veitsman*, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, and Michael Hahn. NeurIPS 2025\n\nB-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability\nYifan Wang, Sukrut Rao, Ji-Ung Lee, Mayank Jobanputra, and Vera Demberg. TMLR 2025\n\nProofTeller: What LLMs struggle with while reasoning with Formal Proofs\nMayank Jobanputra, Alisa Kovtunova, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, and Vera Demberg. IJCNLP-AACL 2025\n\nTree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning\nJustin Xu, Yiming Li, Zizheng Zhang, Augustine Yui Hei Luk, Mayank Jobanputra, Samarth Oza, and Vera Demberg. EMNLP 2025\n\nCan LLMs subtract numbers?\nMayank Jobanputra, Nils Philipp Walter, Maitrey Mehta, Blerta Veseli, Evan Parker Kelly Chapple, Sneha Chetani, Yifan Wang, Ellie Pavlick, Antonio Vergari, Vera Demberg. MathNLP Workshop at EMNLP 2025\n\n\n2024\nRetrieval-Augmented Modular Prompt Tuning for Low-Resource Data-to-Text Generation\nRuitao Feng, Xudong Hong, Mayank Jobanputra, Mattes Warning, and Vera Demberg. LREC-COLING 2024\n\nA Universal Dependencies Treebank for Gujarati\nMayank Jobanputra*, Maitrey Mehta*, and Çağrı Çöltekin. MWE-UD Workshop at LREC-COLING 2024\n\n\n2021\nSamanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages\nGowtham Ramesh, Sumanth Doddapaneni, Aravinth Bheemaraj, Mayank Jobanputra, Raghavan AK, Ajitesh Sharma, Sujit Sahoo, Harshita Diddee, Divyanshu Kakwani, Navneet Kumar, Aswin Pradeep, Kumar Deepak, Vivek Raghavan, Anoop Kunchukuttan, Pratyush Kumar, and Mitesh Khapra. TACL 2021\n\nDetecting and Analyzing Collusive Entities on YouTube\nHridoy Dutta*, Mayank Jobanputra*, Himani Negi, and Tanmoy Chakraborty. ACM Transactions on Intelligent Systems and Technology (TIST) 2021\n\n\n2019\nUnsupervised Question Answering for Fact-Checking\nMayank Jobanputra. Proceedings of the Second Workshop on Fact Extraction and VERification (FEVER) 2019"
+  }
+]

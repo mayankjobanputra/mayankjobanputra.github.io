@@ -1,0 +1,46 @@
+---
+title: "Mayank Jobanputra"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/n0t_mayank
+    - icon: github
+      text: Github
+      href: https://github.com/mayankjobanputra
+    - icon: google-scholar
+      text: Scholar
+      href: https://scholar.google.com/citations?user=plxTJWcAAAAJ
+    - icon: envelope
+      text: Email
+      href: mayankjobanputra AT gmail dot com
+    - icon: file-text
+      text: Resume
+      href: https://www.dropbox.com/s/irgclyonb8c6hdd/Resume_Mayank.pdf?dl=0
+---
+
+## Biography
+
+I am a Doctoral Researcher at **Saarland University** and a member of **ELLIS**, working with **Prof. Vera Demberg**.
+
+My research focuses on evaluating the reliability of Large Language Models (LLMs). I am specifically interested in understanding how we can make these models more dependable and developing concrete solutions to improve their reliability in practice. This work sits at the intersection of Natural Language Generation (NLG), Model Interpretability, and Evaluation.
+
+Previously, I completed my Masters in Computational Linguistics at the **University of Tübingen**, where I worked with **Prof. Detmar Meurers** and **Dr. Çağrı Çöltekin**. I also worked as a Research Assistant at **IIT Madras** with Prof. Mitesh Khapra.
+
+Outside of the lab, I also help start-ups integrate GenAI into their products. In my free time, I enjoy hiking and reading poetry. I have been learning to play Violin for about a year now.
+
+P.S. If you find me with my violin in my hand, you might want to look for your headphones ;P
+
+## News
+
+* **Nov 2025:** B-cos LM accepted at **TMLR**!
+
+* **Oct 2025:** Our paper on showcasing recency bias of LLMs while reasoning accepted at **IJCNLP-AACL 2025**!
+
+* **Sep 2025:** Our work on pre-training and architectural abilities accepted at **NeurIPS 2025**!
+
+* **Aug 2025:** Our paper on factuality and attribution in multi-hop reasoning accepted at **EMNLP 2025**!
+
+* **Sep 2023:** Joined Saarland University as a PhD student in Prof. Vera Demberg's group.
