@@ -22,7 +22,7 @@ Yifan Wang, Sukrut Rao, Ji-Ung Lee, **Mayank Jobanputra**, and Vera Demberg.
 
 ---
 
-*ProofTeller: What LLMs struggle with while reasoning with Formal Proofs*
+*ProofTeller: Exposing recency bias in LLM reasoning and its side effects on communication*
 
 **Mayank Jobanputra**, Alisa Kovtunova, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, and Vera Demberg.  
 *IJCNLP-AACL 2025*
