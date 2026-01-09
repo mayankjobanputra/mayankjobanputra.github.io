@@ -31,7 +31,7 @@ Yifan Wang, Sukrut Rao, Ji-Ung Lee, **Mayank Jobanputra**, and Vera Demberg.
 
 *Tree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning*
 
-Justin Xu, Yiming Li, Zizheng Zhang, Augustine Yui Hei Luk, **Mayank Jobanputra**, Samarth Oza, and Vera Demberg.  
+Justin Xu, Yiming Li, Zizheng Zhang, Augustine Yui Hei Luk, **Mayank Jobanputra**, Samarth Oza, Ashley Murray, Meghana Reddy Kasula, Andrew Parker, David W Eyre.  
 *EMNLP 2025*
 
 ---
