@@ -26,7 +26,7 @@ about:
       href: https://www.dropbox.com/s/irgclyonb8c6hdd/Resume_Mayank.pdf?dl=0
 ---
 
-I am a Doctoral Researcher at **Saarland University** and a member of **ELLIS**, working with **Prof. Vera Demberg**.
+I am an ELLIS PhD student at **Saarland University** and the **University of Edinburgh**, working with **Prof. Vera Demberg** and **Prof. Antonio Vergari**.
 
 My research focuses on evaluating and improving the reliability of Large Language Models (LLMs). I am specifically interested in understanding the fundamental limitations of LLM architectures through expressivity frameworks and mechanistic interpretability and fixing them to improve LLMs' reliability in practice.
 
@@ -38,12 +38,14 @@ P.S. If you find me with my violin in my hand, you might want to look for some e
 
 ## News
 
-* **Nov 2025:** Our paper on B-cos LM accepted at **TMLR**!
+* **Jan 2026:** [Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://arxiv.org/abs/2509.22291) is accepted at **ICLR 2026**!
 
-* **Oct 2025:** Our paper showcasing recency bias of LLMs while reasoning accepted at **IJCNLP-AACL 2025**!
+* **Nov 2025:** Our paper on [B-cos LM](https://arxiv.org/abs/2502.12992) accepted at **TMLR**!
 
-* **Sep 2025:** Our work explaining effects pre-training and scale on architectural abilities of Transformers accepted at **NeurIPS 2025**!
+* **Oct 2025:** [ProofTeller](https://aclanthology.org/2025.ijcnlp-long.80/) paper showcasing recency bias of LLMs while reasoning accepted at **IJCNLP-AACL 2025**!
 
-* **Aug 2025:** Our paper on improving factuality and attribution in multi-hop medical reasoning accepted at **EMNLP 2025**!
+* **Sep 2025:** Our work explaining [effects pre-training and scale on architectural abilities of Transformers](https://openreview.net/forum?id=Huw15LqglI) accepted at **NeurIPS 2025**!
+
+* **Aug 2025:** Our paper on [improving factuality and attribution in multi-hop medical reasoning](https://aclanthology.org/2025.emnlp-main.285/) accepted at **EMNLP 2025**!
 
 * **Sep 2023:** Joined Saarland University as a PhD student in Prof. Vera Demberg's group.
