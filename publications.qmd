@@ -6,6 +6,14 @@ For a full list of our work, please visit our [Google Scholar](https://scholar.g
 
 *\* Equal contribution.*
 
+### 2026
+
+*Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?*
+
+Yifan Wang, **Mayank Jobanputra**, Ji-Ung Lee, Soyoung Oh, Isabel Valera, and Vera Demberg.  
+*ICLR 2026*
+
+
 ### 2025
 
 *Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities*
