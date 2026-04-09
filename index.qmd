@@ -23,7 +23,7 @@ about:
       href: mayankjobanputra AT gmail dot com
     - icon: file-text
       text: Resume
-      href: https://www.dropbox.com/s/irgclyonb8c6hdd/Resume_Mayank.pdf?dl=0
+      href: https://www.dropbox.com/scl/fi/8zy451fjv6qxokqocs10j/Resume_Mayank.pdf?rlkey=qi3f45fh9gugjkjqaex6df7cq
 ---
 
 I am an ELLIS PhD student at **Saarland University** and the **University of Edinburgh**, working with **Prof. Vera Demberg** and **Prof. Antonio Vergari**.
