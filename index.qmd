@@ -3,6 +3,7 @@ title: "Mayank Jobanputra"
 image: resources/profile.jpg
 
 toc: false
+include-after-body: resources/email-popup.html
 
 about:
   image-shape: round
@@ -20,7 +21,7 @@ about:
       href: https://x.com/n0t_mayank
     - icon: envelope
       text: Email
-      href: mayankjobanputra AT gmail dot com
+      href: "#email"
     - icon: file-text
       text: Resume
       href: https://www.dropbox.com/scl/fi/8zy451fjv6qxokqocs10j/Resume_Mayank.pdf?rlkey=qi3f45fh9gugjkjqaex6df7cq

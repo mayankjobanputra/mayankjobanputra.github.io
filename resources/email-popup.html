@@ -1,0 +1,31 @@
+<!-- Email button: shows the (deliberately non-mailto) address on hover and in a pop-up on click. -->
+<div class="modal fade" id="email-modal" tabindex="-1" aria-labelledby="email-modal-title" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="email-modal-title"><i class="bi bi-envelope"></i> Email</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p class="fs-5 mb-0 text-center"><code id="email-modal-address"></code></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const address = "mayankjobanputra AT gmail dot com";
+  const link = document.querySelector('a.about-link[href$="#email"]');
+  const modalEl = document.getElementById("email-modal");
+  if (!link || !modalEl) return;
+
+  document.getElementById("email-modal-address").textContent = address;
+  link.title = address;
+  const modal = new bootstrap.Modal(modalEl);
+  link.addEventListener("click", function (e) {
+    e.preventDefault();
+    modal.show();
+  });
+});
+</script>
