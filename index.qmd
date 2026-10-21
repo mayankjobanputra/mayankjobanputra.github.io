@@ -38,6 +38,10 @@ P.S. If you find me with my violin in my hand, you might want to look for some e
 
 ## News
 
+* **Oct 2026:** Started my research visit in **Edinburgh**! Feel free to email me for a chat/coffee!
+
+* **Jul 2026:** Attended **ACL 2026** and presented our work at the **BioNLP Workshop**!
+
 * **Jan 2026:** [Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://arxiv.org/abs/2509.22291) is accepted at **ICLR 2026**!
 
 * **Nov 2025:** Our paper on [B-cos LM](https://arxiv.org/abs/2502.12992) accepted at **TMLR**!
