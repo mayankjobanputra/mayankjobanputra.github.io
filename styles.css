@@ -45,15 +45,19 @@ div.quarto-about-trestles .about-entity .about-links {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   column-gap: 0.9em;
   row-gap: 0.5em;
   padding-top: 0.75em;
 }
 
 div.quarto-about-trestles .about-entity .about-link {
+  display: inline-flex;
+  align-items: center;
   border: none;
   padding: 0;
   font-size: 1.9rem;
+  line-height: 1;
   color: var(--bs-link-color);
 }
 
