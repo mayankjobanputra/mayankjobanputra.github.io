@@ -24,8 +24,7 @@ about:
     - icon: envelope
       text: Email
       href: "#email"
-    - icon: file-text
-      text: Resume
+    - text: CV
       href: https://www.dropbox.com/scl/fi/8zy451fjv6qxokqocs10j/Resume_Mayank.pdf?rlkey=qi3f45fh9gugjkjqaex6df7cq
 ---
 

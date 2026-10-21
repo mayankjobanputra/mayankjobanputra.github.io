@@ -73,3 +73,15 @@ div.quarto-about-trestles .about-entity .about-link-text {
   clip: rect(0 0 0 0);
   white-space: nowrap;
 }
+
+/* Text-only links (no icon), e.g. "CV", look like the icons */
+div.quarto-about-trestles .about-entity .about-link:not(:has(i.bi)) .about-link-text {
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  font-weight: 700;
+  font-size: 0.85em;
+  line-height: 1;
+}
