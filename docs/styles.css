@@ -1,0 +1,75 @@
+/* Home page: profile column on the left, wide content on the right */
+div.quarto-about-trestles {
+  max-width: 1200px;
+  margin: 0 auto;
+  column-gap: 3em;
+}
+
+div.quarto-about-trestles .about-contents {
+  border-left: none;
+  padding-left: 0;
+}
+
+div.quarto-about-trestles .about-entity {
+  justify-content: flex-start;
+  padding-right: 0;
+}
+
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 30%;
+  }
+}
+
+div.quarto-about-trestles .about-entity .about-image {
+  max-width: 100%;
+}
+
+div.quarto-about-trestles .about-entity .title {
+  font-size: 2rem;
+  margin-bottom: 0.25em;
+}
+
+div.quarto-about-trestles .about-entity .subtitle {
+  font-size: 1rem;
+  color: var(--bs-secondary-color);
+  line-height: 1.6;
+}
+
+div.quarto-about-trestles .about-entity .subtitle .affiliation {
+  color: var(--bs-link-color);
+}
+
+/* Icon-only social links in a wrapping row */
+div.quarto-about-trestles .about-entity .about-links {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 0.9em;
+  row-gap: 0.5em;
+  padding-top: 0.75em;
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+  border: none;
+  padding: 0;
+  font-size: 1.9rem;
+  color: var(--bs-link-color);
+}
+
+div.quarto-about-trestles .about-entity .about-link:hover {
+  opacity: 0.75;
+}
+
+div.quarto-about-trestles .about-entity .about-link i.bi {
+  margin-right: 0;
+}
+
+div.quarto-about-trestles .about-entity .about-link-text {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

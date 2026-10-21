@@ -22,7 +22,7 @@ format:
     theme:
       light: cosmo
       dark: darkly
-#    css: styles.css
+    css: styles.css
     toc: true
 
 execute:
